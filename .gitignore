@@ -125,3 +125,11 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+
+# Meus ignores
+index.ts
+config.ts
+package-lock.json
+package.json
+images/
